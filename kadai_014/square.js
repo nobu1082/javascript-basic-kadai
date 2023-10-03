@@ -1,5 +1,8 @@
 const Square =(i) => { 
-  console.log(i**2)
+       return i**2
 }
 
-Square(20);
+console.log(Square(20));
+
+
+
